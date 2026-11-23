@@ -1,11 +1,27 @@
-# InstaGhost - Instagram Bot Follower Remover
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12172A,100:F58A1F&height=120&section=header&text=InstaGhost&fontColor=F58A1F&fontSize=40&fontAlignY=38&animation=fadeIn&fontFamily=JetBrains+Mono" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/version-4.0-F58A1F?style=flat-square&labelColor=12172A">
+  <img src="https://img.shields.io/badge/language-JavaScript-F7DF1E?style=flat-square&labelColor=12172A&logo=javascript">
+  <img src="https://img.shields.io/badge/platform-Browser%20Console-E6E6E6?style=flat-square&labelColor=12172A">
+  <img src="https://img.shields.io/badge/engine-Advanced%20Anti%E2%80%91Detection-00C853?style=flat-square&labelColor=12172A">
+  <img src="https://img.shields.io/badge/license-MIT-F58A1F?style=flat-square&labelColor=12172A">
+  <img src="https://img.shields.io/github/stars/ForgeLLC/InstaGhost?style=flat-square&color=F58A1F&labelColor=12172A&logo=github">
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:12172A,50:F58A1F,100:12172A&height=2&section=header" width="100%">
+
+
+
 
 A browser-based tool that identifies and removes bot/spam followers from your Instagram account. It detects followers you don't follow back, scores them based on bot-likelihood signals, and removes them automatically with an advanced anti-detection engine.
 
-![UI Version](https://img.shields.io/badge/version-4.0-blue)
-![Engine](https://img.shields.io/badge/engine-Advanced-purple)
-![Language](https://img.shields.io/badge/language-JavaScript-yellow)
-![Platform](https://img.shields.io/badge/platform-Browser%20Console-green)
+
+
+
+
 
 ---
 
@@ -281,3 +297,13 @@ This tool is intended for personal use to clean your own account. Do not use it 
 ## License
 
 MIT
+
+<br>
+
+<p align="center">
+  <sub><code>process exited with code 0</code> · <i>built by <a href="https://github.com/ForgeLLC">ForgeLLC</a></i></sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12172A,60:7A3A10,100:F58A1F&height=110&section=footer" width="100%">
+</p>
